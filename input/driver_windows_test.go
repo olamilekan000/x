@@ -7,8 +7,8 @@ import (
 	"testing"
 	"unicode/utf16"
 
+	"github.com/charmbracelet/x/ansi"
 	xwindows "github.com/charmbracelet/x/windows"
-	"github.com/olamilekan000/x/ansi"
 	"golang.org/x/sys/windows"
 )
 

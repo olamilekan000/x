@@ -2,7 +2,7 @@ package vt
 
 import (
 	uv "github.com/charmbracelet/ultraviolet"
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // nextTab moves the cursor to the next tab stop n times. This respects the

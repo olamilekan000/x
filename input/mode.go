@@ -1,6 +1,6 @@
 package input
 
-import "github.com/olamilekan000/x/ansi"
+import "github.com/charmbracelet/x/ansi"
 
 // ModeReportEvent is a message that represents a mode report event (DECRPM).
 //

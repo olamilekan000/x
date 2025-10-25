@@ -7,7 +7,7 @@ import (
 	"image/color"
 	"io"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // handleOsc handles an OSC escape sequence.

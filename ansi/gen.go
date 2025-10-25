@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 
-	. "github.com/olamilekan000/x/ansi/parser"
+	. "github.com/charmbracelet/x/ansi/parser"
 )
 
 func main() {

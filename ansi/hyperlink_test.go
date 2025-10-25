@@ -3,7 +3,7 @@ package ansi_test
 import (
 	"testing"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 func TestNewHyperlink_NoParams(t *testing.T) {

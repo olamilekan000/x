@@ -18,8 +18,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olamilekan000/x/ansi"
-	"github.com/olamilekan000/x/ansi/kitty"
+	"github.com/charmbracelet/x/ansi"
+	"github.com/charmbracelet/x/ansi/kitty"
 )
 
 var sequences = buildKeysTable(FlagTerminfo, "dumb")

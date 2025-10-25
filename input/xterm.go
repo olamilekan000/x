@@ -1,7 +1,7 @@
 package input
 
 import (
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 func parseXTermModifyOtherKeys(params ansi.Params) Event {

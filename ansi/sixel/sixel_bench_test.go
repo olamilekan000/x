@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 	// gosixel "github.com/mattn/go-sixel"
 )
 

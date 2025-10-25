@@ -4,8 +4,8 @@ import (
 	"unicode/utf8"
 
 	uv "github.com/charmbracelet/ultraviolet"
+	"github.com/charmbracelet/x/ansi"
 	"github.com/mattn/go-runewidth"
-	"github.com/olamilekan000/x/ansi"
 	"github.com/rivo/uniseg"
 )
 

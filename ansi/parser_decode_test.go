@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/olamilekan000/x/ansi/parser"
+	"github.com/charmbracelet/x/ansi/parser"
 )
 
 func TestDecodeSequence(t *testing.T) {

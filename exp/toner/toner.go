@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/exp/charmtone"
-	"github.com/olamilekan000/x/ansi"
 )
 
 // Strings returns a colorized string representation of the input byte slice or

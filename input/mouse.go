@@ -3,7 +3,7 @@ package input
 import (
 	"fmt"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // MouseButton represents the button that was pressed during a mouse message.

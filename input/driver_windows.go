@@ -12,9 +12,9 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
+	"github.com/charmbracelet/x/ansi"
 	xwindows "github.com/charmbracelet/x/windows"
 	"github.com/muesli/cancelreader"
-	"github.com/olamilekan000/x/ansi"
 	"golang.org/x/sys/windows"
 )
 

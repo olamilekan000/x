@@ -12,8 +12,8 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/olamilekan000/x/ansi"
-	"github.com/olamilekan000/x/ansi/sixel"
+	"github.com/charmbracelet/x/ansi"
+	"github.com/charmbracelet/x/ansi/sixel"
 )
 
 // $ go run . ./../../ansi/fixtures/graphics/JigokudaniMonkeyPark.png.

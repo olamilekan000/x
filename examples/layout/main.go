@@ -12,11 +12,11 @@ import (
 
 	"github.com/charmbracelet/colorprofile"
 	"github.com/charmbracelet/lipgloss/v2"
+	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/cellbuf"
 	"github.com/charmbracelet/x/input"
 	"github.com/charmbracelet/x/term"
 	"github.com/lucasb-eyer/go-colorful"
-	"github.com/olamilekan000/x/ansi"
 	"github.com/rivo/uniseg"
 )
 

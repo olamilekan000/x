@@ -8,8 +8,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/olamilekan000/x/ansi"
-	"github.com/olamilekan000/x/ansi/parser"
+	"github.com/charmbracelet/x/ansi"
+	"github.com/charmbracelet/x/ansi/parser"
 	"github.com/rivo/uniseg"
 )
 

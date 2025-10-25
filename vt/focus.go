@@ -3,7 +3,7 @@ package vt
 import (
 	"io"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // Focus sends the terminal a focus event if focus events mode is enabled.

@@ -3,7 +3,7 @@ package cellbuf
 import (
 	"strings"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // scrollOptimize optimizes the screen to transform the old buffer into the new

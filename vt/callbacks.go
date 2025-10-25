@@ -4,7 +4,7 @@ import (
 	"image/color"
 
 	uv "github.com/charmbracelet/ultraviolet"
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // Callbacks represents a set of callbacks for a terminal.

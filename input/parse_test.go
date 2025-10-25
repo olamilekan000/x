@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 func TestParseSequence_Events(t *testing.T) {

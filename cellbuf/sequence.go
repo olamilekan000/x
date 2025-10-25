@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"image/color"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // ReadStyle reads a Select Graphic Rendition (SGR) escape sequences from a

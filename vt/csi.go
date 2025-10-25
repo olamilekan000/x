@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 func (e *Emulator) handleCsi(cmd ansi.Cmd, params ansi.Params) {

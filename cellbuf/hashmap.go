@@ -1,7 +1,7 @@
 package cellbuf
 
 import (
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 // hash returns the hash value of a [Line].

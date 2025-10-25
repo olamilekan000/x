@@ -3,7 +3,7 @@ package ansi
 import (
 	"sync"
 
-	"github.com/olamilekan000/x/ansi/parser"
+	"github.com/charmbracelet/x/ansi/parser"
 )
 
 var parserPool = sync.Pool{

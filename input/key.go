@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/olamilekan000/x/ansi"
+	"github.com/charmbracelet/x/ansi"
 )
 
 const (
