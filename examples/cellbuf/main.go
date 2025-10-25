@@ -6,10 +6,10 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/cellbuf"
 	"github.com/charmbracelet/x/input"
 	"github.com/charmbracelet/x/term"
+	"github.com/olamilekan000/x/ansi"
 )
 
 func main() {

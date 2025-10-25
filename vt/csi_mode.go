@@ -3,7 +3,7 @@ package vt
 import (
 	"io"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 func (e *Emulator) handleMode(params ansi.Params, set, isAnsi bool) {

@@ -4,7 +4,7 @@ import (
 	"io"
 
 	uv "github.com/charmbracelet/ultraviolet"
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 // DcsHandler is a function that handles a DCS escape sequence.

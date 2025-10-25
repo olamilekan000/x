@@ -4,8 +4,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/charmbracelet/x/ansi"
-	"github.com/charmbracelet/x/ansi/kitty"
+	"github.com/olamilekan000/x/ansi"
+	"github.com/olamilekan000/x/ansi/kitty"
 )
 
 // KittyGraphicsEvent represents a Kitty Graphics response event.

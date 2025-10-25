@@ -9,8 +9,8 @@ import (
 	"sync"
 
 	"github.com/charmbracelet/colorprofile"
-	"github.com/charmbracelet/x/ansi"
 	"github.com/charmbracelet/x/term"
+	"github.com/olamilekan000/x/ansi"
 )
 
 // ErrInvalidDimensions is returned when the dimensions of a window are invalid

@@ -1,6 +1,6 @@
 package input
 
-import "github.com/charmbracelet/x/ansi"
+import "github.com/olamilekan000/x/ansi"
 
 // ClipboardSelection represents a clipboard selection. The most common
 // clipboard selections are "system" and "primary" and selections.

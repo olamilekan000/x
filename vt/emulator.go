@@ -6,8 +6,8 @@ import (
 
 	uv "github.com/charmbracelet/ultraviolet"
 	"github.com/charmbracelet/ultraviolet/screen"
-	"github.com/charmbracelet/x/ansi"
-	"github.com/charmbracelet/x/ansi/parser"
+	"github.com/olamilekan000/x/ansi"
+	"github.com/olamilekan000/x/ansi/parser"
 )
 
 // Logger represents a logger interface.

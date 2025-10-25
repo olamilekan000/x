@@ -4,7 +4,7 @@ import (
 	"maps"
 	"strconv"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 // buildKeysTable builds a table of key sequences and their corresponding key

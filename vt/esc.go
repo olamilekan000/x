@@ -1,7 +1,7 @@
 package vt
 
 import (
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 // handleEsc handles an escape sequence.

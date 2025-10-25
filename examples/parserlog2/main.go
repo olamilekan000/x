@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 func main() {

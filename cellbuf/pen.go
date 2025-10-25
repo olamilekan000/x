@@ -3,7 +3,7 @@ package cellbuf
 import (
 	"io"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 // PenWriter is a writer that writes to a buffer and keeps track of the current

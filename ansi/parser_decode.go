@@ -3,8 +3,8 @@ package ansi
 import (
 	"unicode/utf8"
 
-	"github.com/charmbracelet/x/ansi/parser"
 	"github.com/mattn/go-runewidth"
+	"github.com/olamilekan000/x/ansi/parser"
 	"github.com/rivo/uniseg"
 )
 

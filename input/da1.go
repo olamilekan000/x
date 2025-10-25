@@ -1,6 +1,6 @@
 package input
 
-import "github.com/charmbracelet/x/ansi"
+import "github.com/olamilekan000/x/ansi"
 
 // PrimaryDeviceAttributesEvent is an event that represents the terminal
 // primary device attributes.

@@ -9,7 +9,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 	xdraw "golang.org/x/image/draw"
 )
 

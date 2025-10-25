@@ -3,7 +3,7 @@ package ansi_test
 import (
 	"testing"
 
-	"github.com/charmbracelet/x/ansi"
+	"github.com/olamilekan000/x/ansi"
 )
 
 func TestNotifyWorkingDirectory_LocalFile(t *testing.T) {
